@@ -21,6 +21,6 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/fasih-ur-khan/test/master/CreateStorage.json'
-    overrideParameters: '-projectName test'
+    overrideParameters: '-projectName LearnDevOps'
     deploymentMode: 'Incremental'
     deploymentName: 'mytestdep'
