@@ -20,9 +20,5 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/fasih-ur-khan/test/master/CreateStorage.json'
-    overrideParameters: |
-      -storageAccountName "khanfasih897677"
-      -location "West Europe"
-      -storageSKU "Standard_LRS"
+    overrideParameters: '-storageAccountName "fasikhan3444" -location "West Europe" -storageSKU "Standard_LRS"'
     deploymentMode: 'Incremental'
-    deploymentName: 'mytestdep'
